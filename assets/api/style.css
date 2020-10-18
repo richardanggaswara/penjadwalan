@@ -1,0 +1,31 @@
+body, p, div, td, input, textarea { 
+	font-family:verdana,tahoma; 
+	font-size:11px; 
+	color:#000000;
+}
+
+body { 
+	padding:0px; 
+	margin:0px; 
+	background:url(images/body.png) #ffffff; 
+}
+
+a {
+	color:#FFF;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#FFF;
+	text-decoration:none;
+}
+
+#menu{
+	background-color:#4A6103;
+	height:30px;
+	color:#FFFFFF
+}
+
+#content {
+	padding:5px;
+}
